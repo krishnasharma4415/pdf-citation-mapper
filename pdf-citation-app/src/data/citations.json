@@ -1,0 +1,22 @@
+{
+  "citations": [
+    {
+      "id": 1,
+      "page": 3,
+      "searchText": "EBITDA of USD 2.3 bn",
+      "context": "Maersk's results continued to improve year-on-year"
+    },
+    {
+      "id": 2,
+      "page": 5,
+      "searchText": "EBITDA increased to USD 2.3 bn",
+      "context": "driven by higher revenue and cost management"
+    },
+    {
+      "id": 3,
+      "page": 15,
+      "searchText": "Gain on sale of non-current assets, etc., net",
+      "exactMatch": "Gain on sale of non-current assets, etc., net 25"
+    }
+  ]
+}

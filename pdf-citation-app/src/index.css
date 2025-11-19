@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pdf-highlight {
+  background-color: yellow !important;
+  transition: background-color 0.3s ease;
+}
+
+.react-pdf__Page__textContent span {
+  transition: background-color 0.3s ease;
+}
